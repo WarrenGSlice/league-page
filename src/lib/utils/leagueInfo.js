@@ -7,12 +7,13 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>The League of Champions Dynasty League was created in 2021. After Commish Warren Left Bellmont Cabinets work league as the commish, He decided to form a new league that included former co-workers and a mix of friends and aquaintances.</p>
+  <p>The current original members of the league are Warren, Nessa, Josh, Kevin, Bobby, Rickie, Nick, Dylan, and Marcus. Newer additions to the league that have taken over teams are Dayton, Lou, and Daniel.</p>
+  <p>The First winner of the league in 2021 was Dylan! He defeated Nessa 168.84 to 131.76 off of big performances from Dak Prescott, AJ Dillon, Alvin Kamara, Hunter Renfrow, and Austin Ekeler. He would then go on to rebuild his team after the 2022 season. </p>
+  <p>The Second champ of the league in 2022 was a tie between Nessa and Warren, This is due to the Buffalo Bills incident in Week 17 where the game was called early due to cardiac arrest. A Bittersweet ending.</p>
+  <p>The Third champ of the league in 2023 was Warren! He defeated Dylan 193.58 to 132.16 off of big performances from Jalen Hurts, Travis Etienne, Breece Hall, CeeDee Lamb, and Zay Flowers. Can he defend the title? </p>
+  <p>In 2024, rebuilder Nick will be a team to watch after being able to draft Marvin Harrison Jr. and Jonathan Brooks in the 1st round of the rookie draft.</p>
+  <p>As a new anti-tanking policy takes shape in 2024, It will be interesting to see how teams compete for the rookie 1.01 this year. Will we have a new champ in 2024? Perhaps it will be you!</p>
 `;
 
 /*   STEP 3   */
