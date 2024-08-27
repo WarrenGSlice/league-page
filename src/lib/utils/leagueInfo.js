@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The League of Champions Dynasty League was created in 2021. After Commish Warren Left Bellmont Cabinets work league as the commish, He decided to form a new league that included former co-workers and a mix of friends and aquaintances.</p>
+  <p>The League of Champions Dynasty League was created in 2021. After Commish Warren Left Bellmont Cabinets, he took the work league with him and converted it into a dynasty league. He decided to form a new league that included former co-workers and a mix of friends and aquaintances.</p>
   <p>The current original members of the league are Warren, Nessa, Josh, Kevin, Bobby, Rickie, Nick, Dylan, and Marcus. Newer additions to the league that have taken over teams are Dayton, Lou, and Daniel.</p>
   <p>The First winner of the league in 2021 was Dylan! He defeated Nessa 168.84 to 131.76 off of big performances from Dak Prescott, AJ Dillon, Alvin Kamara, Hunter Renfrow, and Austin Ekeler. He would then go on to rebuild his team after the 2022 season. </p>
   <p>The Second champ of the league in 2022 was a tie between Nessa and Warren, This is due to the Buffalo Bills incident in Week 17 where the game was called early due to cardiac arrest. A Bittersweet ending.</p>
