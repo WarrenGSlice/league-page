@@ -114,6 +114,8 @@
     <h3 class="noUnderscore clickable" on:click={() => goToSection(two)}>Section 2: Drafting</h3>
     
         <h4 class="noUnderscore clickable" on:click={() => goToSection(twoOne)}>2.1 Draft Order</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoOneOne)}>2.1.1 Draft Order for Non-Playoff Teams</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoOneTwo)}>2.1.2 Draft Order for Playoff Teams</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(twoTwo)}>2.2 Rookie Drafts</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(twoThree)}>2.3 Draft Day Trades</h4>
     
@@ -237,11 +239,11 @@
     
     <h2 class="sectionHeading" bind:this={two}>Section 2 Drafting</h2>
     
-    <h3 bind:this={twoOne}>2.1 Draft Order</h3>
-    <h3>2.1.a Draft Order for Non-Playoff Teams</h3>
+    <h3 bind:this={twoOne}>2.1 Draft Order</h3></br>
+    <h3 bind:this={twOneOne}>2.1.1 Draft Order for Non-Playoff Teams</h3>
     <p>The draft order for non-playoff teams will be decided based on best ball points for. The team with the least season-long (including playoff weeks) best ball points for will be assigned the 1.01. The second least points will be 1.02 and so on up to pick 1.06. The commish will track and report weekly progress of best ball points for in the league chat weekly and track the progress using an excel spreadsheet.</p>
 
-    <h3>2.1.b Draft Order for Playoff Teams</h3>
+    <h3 bind:this={twoOneTwo}>2.1.2 Draft Order for Playoff Teams</h3>
     <p>Draft order for playoff teams will be decided in reverse order of their final playoff positioning. The league champ will be 1.12, runner up 1.11. and so on.</p>
 
     <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
