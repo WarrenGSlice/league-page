@@ -245,7 +245,7 @@
     <p>Draft order for playoff teams will be decided in reverse order of their final playoff positioning. The league champ will be 1.12, runner up 1.11. and so on.</p>
 
     <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
-    <p>Rokkie drafts will consist of 4 rounds of drafting, with 24 hours alotted for each pick with 8 hours of pause between mid-night and 8am. To make room for the incoming players, the league will yearly vote on roster spot additions or subtractions. These spots will be adjusted after each rookie draft, at which point you will need to have cut the necessary players.</p>
+    <p>Rookie drafts will consist of 4 rounds of drafting, with 24 hours alotted for each pick with 8 hours of pause between mid-night and 8am. To make room for the incoming players, the league will yearly vote on roster spot additions or subtractions. These spots will be adjusted after each rookie draft, at which point you will need to have cut the necessary players.</p>
     <p>Any spots not filled during the draft, can be filled immediately afterwards from the waiver wire.</p>
     
     <h3 bind:this={twoThree}>2.3 Draft Day Trades</h3>
@@ -292,7 +292,7 @@
     <h2 class="sectionHeading" bind:this={seven}>Section 7 League Finances</h2>
     
     <h3 bind:this={sevenOne}>7.1 League Dues</h3>
-    <p>League dues are set at {dues}$. Dues are collected through CashApp, Venmo, or Paypal only and stored in a secure account only touched for payouts.</a> All managers must be fully paid up before the start of the rookie draft. In the event that a manager fails to pay before the deadline, the manager will be removed unless there is a trust-worthy agreement in place with a trusted manager. Trusted manager status is given to any manager that has paid with no problems for at least 3 straight years. Non-trusted managers will be given no quarter (been burned too many times)</p>
+    <p>League dues are set at {dues}$. Dues are collected through CashApp, Venmo, or Paypal only and stored in a secure account only touched for payouts. All managers must be fully paid up before the start of the rookie draft. In the event that a manager fails to pay before the deadline, the manager will be removed unless there is a trust-worthy agreement in place with a trusted manager. Trusted manager status is given to any manager that has paid with no problems for at least 3 straight years. Non-trusted managers will be given no quarter (been burned too many times)</p>
     
     <h3 bind:this={sevenTwo}>7.2 Payout</h3>
     <p>League payout is structured as follows:</p>
