@@ -174,7 +174,7 @@
 
     <p>8 Taxi Spots (Expanded by 2 in 2024) </p>
 
-    <p>3 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
+    <p>3 IR Spots (Player must be labeled as IR, OUT, COVID, SUS, NA, DNR, HOLDOUT, OPT-OUT, or Doubtful in the Sleeper App)</p>
     
         <h4 bind:this={oneOneOne}>1.1.1 Position Maximums</h4>
         
