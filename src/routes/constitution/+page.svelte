@@ -1,7 +1,7 @@
 <script>
     import { dues } from '$lib/utils/helper';
     let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
-    let two, twoOne, twoTwo, twoThree;
+    let two, twoOne, twoOneOne, twoOneTwo, twoTwo, twoThree;
     let three, threeOne;
     let four, fourOne, fourTwo;
     let five, fiveOne;
@@ -242,7 +242,7 @@
     <h2 class="sectionHeading" bind:this={two}>Section 2 Drafting</h2>
     
     <h3 bind:this={twoOne}>2.1 Draft Order</h3>
-    
+
     <h3 bind:this={twOneOne}>2.1.1 Draft Order for Non-Playoff Teams</h3>
     <p>The draft order for non-playoff teams will be decided based on best ball points for. The team with the least season-long (including playoff weeks) best ball points for will be assigned the 1.01. The second least points will be 1.02 and so on up to pick 1.06. The commish will track and report weekly progress of best ball points for in the league chat weekly and track the progress using an excel spreadsheet.</p>
 
