@@ -152,7 +152,9 @@
     <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
     
     <p>27 Total Players</p>
+    <p>plus +</p>
     <p>8 Taxi Spots</p>
+    <p>plus +</p>
     <p>3 IR Spots</p>
     
     <p class="underscore">Starters</p>
