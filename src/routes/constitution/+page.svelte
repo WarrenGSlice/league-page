@@ -114,8 +114,8 @@
     <h3 class="noUnderscore clickable" on:click={() => goToSection(two)}>Section 2: Drafting</h3>
     
         <h4 class="noUnderscore clickable" on:click={() => goToSection(twoOne)}>2.1 Draft Order</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoOneOne)}>2.1.1 Draft Order for Non-Playoff Teams</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoOneTwo)}>2.1.2 Draft Order for Playoff Teams</h4>
+        <h5 class="noUnderscore clickable" on:click={() => goToSection(twoOneOne)}>2.1.1 Draft Order for Non-Playoff Teams</h5>
+        <h5 class="noUnderscore clickable" on:click={() => goToSection(twoOneTwo)}>2.1.2 Draft Order for Playoff Teams</h5>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(twoTwo)}>2.2 Rookie Drafts</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(twoThree)}>2.3 Draft Day Trades</h4>
     
