@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "1059744752154935296"; // your league ID
+export const leagueID = "1194782613510815744"; // your league ID
 export const leagueName = "League of Champions"; // your league name
 export const dues = 50; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
@@ -33,14 +33,14 @@ export const managers = [
         //"tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
         "location": "Portland", // (optional)
         "bio": "Warren is the league commish and defending champion. He also likes to trade.",
-        "photo": "https://sleepercdn.com/uploads/cddcd5780627927aef43e358afcdff03", // square ratio recommended (no larger than 500x500)
+        "photo": "https://sleepercdn.com/uploads/7706b0552dbd2eb4d8ac733184db3f2c", // square ratio recommended (no larger than 500x500)
         //"fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
         "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
         "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
         "rival": {
           name: "Nessa", // Can be anything (usually your rival's name)
           link: 2, // manager array number within this array, or null to link back to all managers page
-          image: "https://sleepercdn.com/uploads/11b9d7e47189ada1f83f26efdc6f27fe.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+          image: "https://sleepercdn.com/uploads/203aa7a72bb6e171ef20ccf098dfcb7b.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
         },
         "favoritePlayer": 7525, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
         "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -56,14 +56,14 @@ export const managers = [
       //"tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Federal Way", // (optional)
       "bio": "Nessa is a saavy Dynasty Manager and is a challenger for the championship year-in and year-out. Nessa also loves animals <3",
-      "photo": "https://sleepercdn.com/uploads/11b9d7e47189ada1f83f26efdc6f27fe.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "https://sleepercdn.com/uploads/203aa7a72bb6e171ef20ccf098dfcb7b.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Warren", // Can be anything (usually your rival's name)
         link: 1, // manager array number within this array, or null to link back to all managers page
-        image: "https://sleepercdn.com/uploads/cddcd5780627927aef43e358afcdff03", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "https://sleepercdn.com/uploads/7706b0552dbd2eb4d8ac733184db3f2c", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 4866, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "TE", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -78,7 +78,7 @@ export const managers = [
       "name": "Rickie",
       //"tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Greater Tacoma Area", // (optional)
-      "bio": "Rickie team is always tough. He favors Running Backs and is depending on a fresh squad of Rookie WRs to revitalize his team and prevent a rebuild.",
+      "bio": "Rickie's team is always tough. He favorsRookie Nabers and Brian Thomas and Will Never Trade them, but also needs some Running Backs really bad, but doesn't feel like trading for them right now.",
       "photo": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6", // square ratio recommended (no larger than 500x500)
       //"fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -98,10 +98,10 @@ export const managers = [
     {
       "roster": 4,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
       "user_id": "712846950583578624",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "Marcus",
+      "name": "Cole",
       //"tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Michigan", // (optional)
-      "bio": "Marcus is a man of steel, Detroit Steel. He probably needs to rebuild, but works too much to focus on such things.",
+      "bio": "Cole is does a lot of great things and loves Sam Darnold to the core.",
       "photo": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c", // square ratio recommended (no larger than 500x500)
       //"fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "det", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -147,7 +147,7 @@ export const managers = [
       "name": "Dylan",
       //"tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Southwest Washington", // (optional)
-      "bio": "Dylan wins, well... get used to it because if you play him, that's what happens 95% of the time. How is he so good?",
+      "bio": "Dylan wins, well... get used to it because if you play him, that's what happens 95% of the time. How is he so good? - Josh Allen & Bijan... thats how",
       "photo": "https://sleepercdn.com/uploads/68347c2ea943a473b08494f7fe01d370.jpg", // square ratio recommended (no larger than 500x500)
       //"fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -155,7 +155,7 @@ export const managers = [
       "rival": {
         name: "Nick", // Can be anything (usually your rival's name)
         link: 7, // manager array number within this array, or null to link back to all managers page
-        image: "https://sleepercdn.com/avatars/thumbs/5ac01791e7f5fb3afb8a3b3cd3f6375e", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "https://sleepercdn.com/images/v3/avatars/avatar_default_purple.webp", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 9509, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -171,7 +171,7 @@ export const managers = [
       //"tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Somewhere in Washington", // (optional)
       "bio": "I just rebuilt my team and I'm going to go undefeated now, the only thing that can stop me is my lack of sleep from raising this baby.",
-      "photo": "https://sleepercdn.com/avatars/thumbs/5ac01791e7f5fb3afb8a3b3cd3f6375e", // square ratio recommended (no larger than 500x500)
+      "photo": "https://sleepercdn.com/images/v3/avatars/avatar_default_purple.webp", // square ratio recommended (no larger than 500x500)
       //"fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -216,8 +216,8 @@ export const managers = [
       "name": "Bobby",
       //"tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "The Greater Seattle Area", // (optional)
-      "bio": "I'm a Topman at Boeing and a Topgun at fantasy. Not Maverick, that other guy that crashed his plane in the opening credits. Bobby is working on a multi-year rebuild. If the Bears are good, it could be quick rebuild.",
-      "photo": "https://sleepercdn.com/uploads/d1d0880880f72b6efd0275021d146928.jpg", // square ratio recommended (no larger than 500x500)
+      "bio": "I'm a Topman at Boeing and a Topgun at fantasy. Not Maverick, that other guy that crashed his plane in the opening credits. Bobby is the true defintion of an American Comeback - From Having the Worst Team over the past 3 years, to Starting the season 2-0!!",
+      "photo": "https://sleepercdn.com/uploads/5ce50d6053ffe8d6eb205d39be8ed019.jpg", // square ratio recommended (no larger than 500x500)
       //"fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -247,7 +247,7 @@ export const managers = [
       "rival": {
         name: "Bobby", // Can be anything (usually your rival's name)
         link: 9, // manager array number within this array, or null to link back to all managers page
-        image: "https://sleepercdn.com/uploads/d1d0880880f72b6efd0275021d146928.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "https://sleepercdn.com/uploads/5ce50d6053ffe8d6eb205d39be8ed019.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 167, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
