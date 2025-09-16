@@ -8,12 +8,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>The League of Champions Dynasty League was created in 2021. After Commish Warren Left Bellmont Cabinets, he took the work league with him and converted it into a dynasty league. He decided to form a new league that included former co-workers and a mix of friends and aquaintances.</p>
-  <p>The current original members of the league are Warren, Nessa, Josh, Kevin, Bobby, Rickie, Nick, Dylan, and Marcus. Newer additions to the league that have taken over teams are Dayton, Lou, and Daniel.</p>
+  <p>The current original members of the league are Warren, Nessa, Josh, Kevin, Bobby, Rickie, Nick, & Dylan. Newer additions to the league that have taken over teams are Dayton, Lou, Daniel, & Cole.</p>
   <p>The First winner of the league in 2021 was Dylan! He defeated Nessa 168.84 to 131.76 off of big performances from Dak Prescott, AJ Dillon, Alvin Kamara, Hunter Renfrow, and Austin Ekeler. He would then go on to rebuild his team after the 2022 season. </p>
   <p>The Second champ of the league in 2022 was a tie between Nessa and Warren, This is due to the Buffalo Bills incident in Week 17 where the game was called early due to cardiac arrest. A Bittersweet ending.</p>
   <p>The Third champ of the league in 2023 was Warren! He defeated Dylan 193.58 to 132.16 off of big performances from Jalen Hurts, Travis Etienne, Breece Hall, CeeDee Lamb, and Zay Flowers. Can he defend the title? </p>
-  <p>In 2024, rebuilder Nick will be a team to watch after being able to draft Marvin Harrison Jr. and Jonathan Brooks in the 1st round of the rookie draft.</p>
-  <p>As a new anti-tanking policy takes shape in 2024, It will be interesting to see how teams compete for the rookie 1.01 this year. Will we have a new champ in 2024? Perhaps it will be you!</p>
+  <p>In 2024, rebuilder Nick was able to draft Marvin Harrison Jr. and Jonathan Brooks in the 1st round of the rookie draft. Will He Be The Champion? No - Lou Won the Championship in 2025 over 1st year Manager Daniel 199.28 to 139.64 off Big perfomances from Jayden Daniels, Saquon Barkley, Tee Higgins,George Kittle and Olamide Zaccheus. </p>
+  <p>As a new anti-tanking policy took shape in 2024, Dayton was able to get the 1.01 and Draft Ashton Jeanty. Who Will win in 2025?</p>
 `;
 
 /*   STEP 3   */
