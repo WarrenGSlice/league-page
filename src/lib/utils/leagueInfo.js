@@ -13,7 +13,9 @@ export const homepageText = `
   <p>The Second champ of the league in 2022 was a tie between Nessa and Warren, This is due to the Buffalo Bills incident in Week 17 where the game was called early due to cardiac arrest. A Bittersweet ending.</p>
   <p>The Third champ of the league in 2023 was Warren! He defeated Dylan 193.58 to 132.16 off of big performances from Jalen Hurts, Travis Etienne, Breece Hall, CeeDee Lamb, and Zay Flowers. Can he defend the title? </p>
   <p>In 2024, rebuilder Nick was able to draft Marvin Harrison Jr. and Jonathan Brooks in the 1st round of the rookie draft. Will He Be The Champion? No - Lou Won the Championship in 2025 over 1st year Manager Daniel 199.28 to 139.64 off Big perfomances from Jayden Daniels, Saquon Barkley, Tee Higgins,George Kittle and Olamide Zaccheus. </p>
-  <p>As a new anti-tanking policy took shape in 2024, Dayton was able to get the 1.01 and Draft Ashton Jeanty. Who Will win in 2025?</p>
+  <p>As a new anti-tanking policy took shape in 2024, Dayton was able to get the 1.01 and Draft Ashton Jeanty.</p>
+  <p>2025: Nessa destroyed the league and won the title with the most dominant team ever put together and put fear into the league. On the back of CMC, Jonathan Taylor, Puka Nacua, JSN, Jahmyr Gibbs, Nico Collins, Javonte Williams, & Harold Fanin the title was won. </p>
+  <p>In 2026, Nick is attempting to rebuild, leaving the challenge of winning to fewer teams. Warren is attempting to sell out his future to win now. Can another come forward to challenge Nessa for the title?</p>
 `;
 
 /*   STEP 3   */
